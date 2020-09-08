@@ -1,9 +1,11 @@
+@import '~antd/dist/antd.css';
 @import './styles/TopBar.css';
 @import './styles/App.css';
 @import './styles/ShotChart.css';
 @import './styles/Profile.css';
 @import './styles/Main.css';
 @import './styles/DataViewContainer.css';
+@import "styles/SearchBar.css";
 
 body {
   margin: 0;

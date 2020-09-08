@@ -3,6 +3,7 @@
 #shot-chart {
     width: 100%;
     margin: auto;
+    margin-top: -50px;
 }
 
 /********SHOTCHART COURT STYLES****** */
@@ -151,4 +152,5 @@ path.shot {
     top: 50%;
     left: 100%;
 }
+
 
