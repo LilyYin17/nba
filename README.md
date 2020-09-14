@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+The website implemented a dashboard using React, D3 and Ant Design backed by data crawled from stats.nba.com. You can view and search the players' data, shot chart and profile.
 ## Available Scripts
 
 In the project directory, you can run:
